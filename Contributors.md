@@ -4,6 +4,7 @@
 -Hey , Im Neeraj Yadav Gosu , Check me out on (https://github.com/NeerajYadavGosu)
 -Hey, I'm Jitesh Pathak. Check me out on [Github](https://github.com/jiteshpathak)
 -Hi, I am Thang. This is my first contibution to an open source project.
+- Hey, I'm Bhatesh Khairnar, check me out on (https://github.com/BhateshKhairnar)
 -Hello World the **GREAT** Leo has arrived: [Github](https://github.com/Leorev01)
 -[Vishal Bist](https://github.com/Vishal-Bisht) **Getting started with the open source contributions (2024)🥂🔥**
 -Hey I am Harshvardhan Jha . I am new programmer learning to code .
